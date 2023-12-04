@@ -1,0 +1,88 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 20px;
+}
+
+header img {
+    border-radius: 50%;
+    max-width: 200px;
+    height: auto;
+    margin-top: 10px;
+}
+
+section {
+    margin: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 15px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+th {
+    background-color: #333;
+    color: white;
+}
+
+/* Introduction Styles */
+.introduction {
+    font-size: 18px;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.large-text {
+    font-size: 24px;
+}
+
+/* Text Color Styles */
+.blue-text {
+    color: blue;
+}
+
+.green-text {
+    color: green;
+}
+
+/* Background Color Styles */
+.yellow-bg {
+    background-color: yellow;
+    padding: 10px;
+}
+
+.purple-bg {
+    background-color: purple;
+    color: white;
+    padding: 10px;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+footer img {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
